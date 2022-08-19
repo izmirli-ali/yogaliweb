@@ -104,7 +104,7 @@ function Header() {
       >
         <Logo />
       </div>
-      <div className="flex gap-4">
+      <div className="flex items-center gap-4">
         <button
           onClick={onClickLangToggle}
           className="bg-white hover:text-white dark:bg-[#1D1D1D] dark:hover:bg-primary hover:bg-primary transition p-3 rounded-full"
