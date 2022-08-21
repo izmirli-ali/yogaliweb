@@ -28,7 +28,7 @@ export function App() {
     if (lang) setLanguage(lang), i18n.changeLanguage(lang);
 
     setAppLoaded(true);
-  });
+  }, []);
 
   return (
     <div className={`${theme === "dark" && "dark"}`}>
