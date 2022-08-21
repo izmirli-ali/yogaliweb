@@ -4,7 +4,7 @@ function Modal({ onClickOutside, onClickClose, children }) {
   return (
     <div
       onClick={onClickOutside}
-      className="fixed w-screen z-50 h-screen top-0 left-0 px-10 py-5 bg-black/50 flex justify-center items-center"
+      className="fixed w-screen z-50 h-screen top-0 left-0 px-6 md:px-10 py-5 bg-black/50 flex justify-center items-center"
     >
       <div
         onClick={(e) => e.stopPropagation()}
