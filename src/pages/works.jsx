@@ -2,9 +2,13 @@ import { useEffect, useState } from "preact/hooks";
 import { useTranslation } from "react-i18next";
 
 import PortfolioImage1 from "../assets/portfolio-1.jpg";
-import PortfolioImage2 from "../assets/portfolio-2.jpg";
-import PortfolioImage3 from "../assets/portfolio-3.jpg";
-import PortfolioImage4 from "../assets/portfolio-4.jpg";
+import PortfolioImage2 from "../assets/portfolio-2.png";
+import PortfolioImage3 from "../assets/portfolio-3.png";
+import PortfolioImage4 from "../assets/portfolio-4.png";
+import PortfolioImage5 from "../assets/portfolio-5.jpg";
+import PortfolioImage6 from "../assets/portfolio-6.png";
+import PortfolioImage7 from "../assets/portfolio-7.png";
+import PortfolioImage8 from "../assets/portfolio-8.jpg";
 import Modal from "../components/modal";
 
 function PortfolioItem({ work, onClick }) {
@@ -34,36 +38,68 @@ function Works() {
 
   const works = [
     {
-      category: "UI/UX",
-      title: "Chul urina",
+      category: "Logo",
+      title: t("workstitle1"),
       light: "bg-[#D566FF]/10",
       image: PortfolioImage1,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum conseqr quo obcaecati rerum sit non. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum consequuntur quo obcaecati rerum sit non.",
-    },
-    {
-      category: "Web Design",
-      title: "Aura Dione",
-      light: "bg-[#DDA10C]/10",
-      image: PortfolioImage2,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum conseqr quo obcaecati rerum sit non. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum consequuntur quo obcaecati rerum sit non.",
+      description:"",
+      
     },
     {
       category: "Logo",
-      title: "Chul Urina",
-      light: "bg-[#8774FF]/10",
-      image: PortfolioImage3,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum conseqr quo obcaecati rerum sit non. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum consequuntur quo obcaecati rerum sit non.",
+      title: t("workstitle2"),
+      light: "bg-[#DDA10C]/10",
+      image: PortfolioImage2,
+      description:"",
+      
     },
     {
-      category: "Video",
-      title: "Chul Urina",
+      category: "Logo",
+      title: t("workstitle3"),
+      light: "bg-[#8774FF]/10",
+      image: PortfolioImage3,
+      description:"",
+      
+    },
+    {
+      category: "Logo",
+      title: t("workstitle4"),
       light: "bg-[#FF6080]/10",
       image: PortfolioImage4,
-      description:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum conseqr quo obcaecati rerum sit non. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga consequatur delectus porro sapiente molestias, magni quasi sed, enim corporis omnis doloremque soluta inventore dolorum consequuntur quo obcaecati rerum sit non.",
+      description:"",
+      
+    },
+    {
+      category: "Logo",
+      title: t("workstitle5"),
+      light: "bg-[#FF6080]/10",
+      image: PortfolioImage5,
+      description:"",
+      
+    },
+    {
+      category: "Logo",
+      title: t("workstitle6"),
+      light: "bg-[#FF6080]/10",
+      image: PortfolioImage6,
+      description:"",
+      
+    },
+    {
+      category: "Logo",
+      title: t("workstitle7"),
+      light: "bg-[#FF6080]/10",
+      image: PortfolioImage7,
+      description:"",
+      
+    },
+    {
+      category: "Logo",
+      title: t("workstitle8"),
+      light: "bg-[#FF6080]/10",
+      image: PortfolioImage8,
+      description:"",
+      
     },
   ];
 

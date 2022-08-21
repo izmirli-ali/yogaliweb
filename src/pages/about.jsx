@@ -1,11 +1,13 @@
 import PersonalCard from "../components/personalCard";
 import {
-  PencilIcon,
+  PencilAltIcon,
   TerminalIcon,
   PhotographIcon,
   CameraIcon,
   CogIcon,
-  CodeIcon,
+  LightBulbIcon,
+  FilmIcon,
+
 } from "@heroicons/react/outline";
 import { useTranslation } from "react-i18next";
 
@@ -13,53 +15,49 @@ function About() {
   const { t } = useTranslation();
   const serviceList = [
     {
-      icon: PencilIcon,
-      color: "text-[#D566FF]",
-      light: "bg-[#D566FF]/10",
-      title: "Ui/Ux Design",
-      description:
-        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod volutpat.",
-    },
-    {
-      icon: TerminalIcon,
+      icon: PencilAltIcon,
       color: "text-[#DDA10C]",
       light: "bg-[#DDA10C]/10",
-      title: "App Development",
-      description:
-        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod volutpat.",
+      title: t("whatidotitle4"),
+      description: t("whatidodes1"),
+    },
+    {
+      icon: FilmIcon,
+      color: "text-[#D566FF]",
+      light: "bg-[#D566FF]/10",
+      title: t("whatidotitle1"),
+      description: t("whatidodes2"),
+    
     },
     {
       icon: PhotographIcon,
       color: "text-[#8774FF]",
       light: "bg-[#8774FF]/10",
-      title: "Photography",
-      description:
-        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod volutpat.",
+      title: t("whatidotitle2"),
+      description: t("whatidodes3"),
     },
     {
       icon: CameraIcon,
       color: "text-[#FF6080]",
       light: "bg-[#FF6080]/10",
-      title: "Photography",
-      description:
-        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod volutpat.",
+      title: t("whatidotitle3"),
+      description: t("whatidodes4"),
+    },
+    {
+      icon: LightBulbIcon,
+      color: "text-[#269FFF]",
+      light: "bg-[#269FFF]/10",
+      title: t("whatidotitle6"),
+      description: t("whatidodes5"),
     },
     {
       icon: CogIcon,
       color: "text-[#FF75D8]",
       light: "bg-[#FF75D8]/10",
-      title: "Management",
-      description:
-        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod volutpat.",
+      title: t("whatidotitle5"),
+      description: t("whatidodes5"),
     },
-    {
-      icon: CodeIcon,
-      color: "text-[#269FFF]",
-      light: "bg-[#269FFF]/10",
-      title: "Web Development",
-      description:
-        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod volutpat.",
-    },
+   
   ];
 
   return (

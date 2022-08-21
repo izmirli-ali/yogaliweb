@@ -1,4 +1,4 @@
-import ProfilePhoto from "../assets/profile-yogali.png";
+import ProfilePhoto from "../assets/profile-yogali.webp";
 import {
   DeviceMobileIcon,
   MailIcon,
@@ -17,7 +17,7 @@ function PersonalCard() {
         src={ProfilePhoto}
         className="w-56 h-56 lg:-mt-36 rounded-2xl shadow-lg object-cover object-center"
       />
-      <h1 className="text-2xl font-bold mt-6">Ali Uysal</h1>
+      <h1 className="text-2xl font-bold mt-6">Ali ihsancan UYSAL</h1>
       <p className="text-gray-400 mt-4 font-medium">
         <span className="bg-transparent dark:bg-[#1D1D1D] px-4 py-2 rounded-lg">
           {t("profileDescription")}
@@ -58,7 +58,7 @@ function PersonalCard() {
         </a>
 
         <a
-          href="https://facebook.com/aliyogali"
+          href="https://www.instagram.com/aliihsancanuysal/"
           target="_blank"
           className="bg-gray-100 dark:bg-[#212425] text-[#E14A84] hover:bg-primary dark:hover:bg-primary hover:text-white transition w-10 h-10 flex justify-center items-center rounded-lg"
         >
@@ -79,7 +79,7 @@ function PersonalCard() {
         </a>
 
         <a
-          href="https://facebook.com/aliyogali"
+          href="https://www.linkedin.com/in/aliihsancanuysal/"
           target="_blank"
           className="bg-gray-100 dark:bg-[#212425] text-[#1773EA] hover:bg-primary dark:hover:bg-primary hover:text-white transition w-10 h-10 flex justify-center items-center rounded-lg"
         >

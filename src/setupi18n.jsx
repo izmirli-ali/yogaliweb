@@ -7,7 +7,7 @@ i18n.use(initReactI18next).init({
   resources: {
     en: {
       translation: {
-        profileDescription: "Professionel Bitch",
+        profileDescription: "Video / Photo Editor",
         profilePhone: "Phone",
         profileEmail: "Email",
         profileLocation: "Location",
@@ -44,11 +44,36 @@ i18n.use(initReactI18next).init({
         contactEmail: "Email",
         contactMessage: "Message",
         contactSend: "Send",
+
+        
+        whatidotitle1: "Video düzenleme",
+        whatidotitle2: "Fotoğraf düzenleme",
+        whatidotitle3: "Fotoğrafçılık",
+        whatidotitle4: "Tasarım",
+        whatidotitle5: "Yöneticilik",
+        whatidotitle6: "İş geliştirme",
+
+        whatidodes1: "açıklama1",
+        whatidodes2: "açıklama2",
+        whatidodes3: "açıklama3",
+        whatidodes4: "açıklama4",
+        whatidodes5: "açıklama5",
+        whatidodes6: "açıklama6",
+
+        workstitle1: "\"Vaquer\" logo design",
+        workstitle2: "\"Fidel\" logo design",
+        workstitle3: "\"AG\" logo design",
+        workstitle4: "\"Zeta\" logo design",
+        workstitle5: "\"Oxy\" logo design",
+        workstitle6: "\"Ift\" logo design",
+        workstitle7: "\"Ali\" logo design",
+        workstitle8: "\"Lax\" logo design",
+
       },
     },
     tr: {
       translation: {
-        profileDescription: "Profesyonel Orzbu",
+        profileDescription: "Video / Fotoğraf Düzenleyicisi",
         profilePhone: "Telefon",
         profileEmail: "Eposta",
         profileLocation: "Konum",
@@ -63,9 +88,7 @@ i18n.use(initReactI18next).init({
         menuContact: "İletişim",
 
         aboutmeTitle: "Hakkımda",
-        aboutmeDescription1: `I'm Creative Director and UI/UX Designer from Sydney, Australia,
-          working in web development and print media. I enjoy turning complex
-          problems into simple, beautiful and intuitive designs.`,
+        aboutmeDescription1: `Blablablabla`,
         aboutmeDescription2: `My aim is to bring across your message and identity in the most
           creative way. I created web design for many famous brand companies.`,
         aboutmeWhatIDo: "Neler yapıyorum!",
@@ -85,6 +108,31 @@ i18n.use(initReactI18next).init({
         contactEmail: "Eposta",
         contactMessage: "Mesaj",
         contactSend: "Gönder",
+
+
+        whatidotitle1: "Video düzenleme",
+        whatidotitle2: "Fotoğraf düzenleme",
+        whatidotitle3: "Fotoğrafçılık",
+        whatidotitle4: "Tasarım",
+        whatidotitle5: "Yöneticilik",
+        whatidotitle6: "İş geliştirme",
+
+        whatidodes1: "açıklama1",
+        whatidodes2: "açıklama2",
+        whatidodes3: "açıklama3",
+        whatidodes4: "açıklama4",
+        whatidodes5: "açıklama5",
+        whatidodes6: "açıklama6",
+
+        workstitle1: "\"Vaquer\" logo tasarımı",
+        workstitle2: "\"Fidel\" logo tasarımı",
+        workstitle3: "\"AG\" logo tasarımı",
+        workstitle4: "\"Zeta\" logo tasarımı",
+        workstitle5: "\"Oxy\" logo tasarımı",
+        workstitle6: "\"Ift\" logo tasarımı",
+        workstitle7: "\"Ali\" logo tasarımı",
+        workstitle8: "\"Lax\" logo tasarımı",
+        
       },
     },
   },
