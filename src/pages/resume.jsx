@@ -6,23 +6,17 @@ function Resume() {
   const { t } = useTranslation();
   const educationList = [
     {
-      timespan: "2021 - 2023",
-      title: "Ph.D in Horriblensess",
+      timespan: "2020 - 2022",
+      title: "Radyo ve Televizyon Programcılığı",
       light: "bg-[#D566FF]/10",
-      description: "ABC University, Los Angeles, CA",
+      description: "Afyon Kocatepe Üniversitesi",
     },
     {
-      timespan: "2019 - Present",
-      title: "Sr. Software Tester",
+      timespan: "2022",
+      title: "Diksiyon, Spikerlik ve Sunuculuk",
       light: "bg-[#DDA10C]/10",
-      description: "Google Inc.",
-    },
-    {
-      timespan: "2021",
-      title: "Best Developer",
-      light: "bg-[#8774FF]/10",
-      description: "University Of Melbourne, NA",
-    },
+      description: "Afyonkarahisar Halk Eğitimi Merkezi",
+    }
   ];
 
   const experienceList = [
@@ -38,45 +32,44 @@ function Resume() {
       light: "bg-[#FF75D8]/10",
       description: "ib-themes ltd.",
     },
-    {
-      timespan: "2008",
-      title: "Best Writter",
-      light: "bg-[#269FFF]/10",
-      description: "Online Typodev Soluation Ltd.",
-    },
   ];
 
   const skillList = [
     {
-      name: "Web Design",
-      amount: 80,
+      name: "Tasarım",
+      amount: 90,
       color: "bg-primary",
     },
     {
-      name: "Mobile App",
-      amount: 95,
+      name: "Video Düzenleme",
+      amount: 75,
       color: "bg-[#9272D4]",
     },
     {
-      name: "Illustrator",
-      amount: 65,
+      name: "Adobe Tasarım Programları",
+      amount: 90,
       color: "bg-[#5185D4]",
     },
     {
-      name: "Photoshop",
-      amount: 75,
+      name: "Topluluk İletişimi",
+      amount: 85,
       color: "bg-[#CA56F2]",
+    },
+    {
+      name: "İş Geliştirme",
+      amount: 90,
+      color: "bg-[#DC9D00]",
     },
   ];
 
   const knowledgeList = [
-    "Digital Design",
-    "Marketing",
-    "Social Media",
+    "Dijital tasarım",
+    "Sosyal medya",
     "Print",
     "Time Management",
     "Flexibility",
     "Print",
+    "Orospuluk",
   ];
 
   return (

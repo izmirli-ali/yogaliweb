@@ -46,12 +46,12 @@ i18n.use(initReactI18next).init({
         contactSend: "Send",
 
         
-        whatidotitle1: "Video düzenleme",
-        whatidotitle2: "Fotoğraf düzenleme",
+        whatidotitle1: "Video Düzenleme",
+        whatidotitle2: "Fotoğraf Düzenleme",
         whatidotitle3: "Fotoğrafçılık",
         whatidotitle4: "Tasarım",
         whatidotitle5: "Yöneticilik",
-        whatidotitle6: "İş geliştirme",
+        whatidotitle6: "İş Geliştirme",
 
         whatidodes1: "açıklama1",
         whatidodes2: "açıklama2",
@@ -102,7 +102,7 @@ i18n.use(initReactI18next).init({
         worksTitle: "Portfolyo",
 
         contactTitle: "İletişim",
-        contactText1: "Ürün tasarımı ve iş ortaklıkları için",
+        contactText1: "Teklif ve iş ortaklıkları için",
         contactText2: "bana her zaman ulaşabilirsiniiz.",
         contactName: "İsim",
         contactEmail: "Eposta",
@@ -110,19 +110,19 @@ i18n.use(initReactI18next).init({
         contactSend: "Gönder",
 
 
-        whatidotitle1: "Video düzenleme",
-        whatidotitle2: "Fotoğraf düzenleme",
+        whatidotitle1: "Video Düzenleme",
+        whatidotitle2: "Fotoğraf Düzenleme",
         whatidotitle3: "Fotoğrafçılık",
         whatidotitle4: "Tasarım",
         whatidotitle5: "Yöneticilik",
-        whatidotitle6: "İş geliştirme",
+        whatidotitle6: "İş Geliştirme",
 
-        whatidodes1: "açıklama1",
-        whatidodes2: "açıklama2",
-        whatidodes3: "açıklama3",
-        whatidodes4: "açıklama4",
-        whatidodes5: "açıklama5",
-        whatidodes6: "açıklama6",
+        whatidodes1: "Kişiye özel veya marka odaklı logo, panel ve arkaplan tasarımları yapıyorum.",
+        whatidodes2: "Üniversite yıllarım boyunca çeşitli kısa film ve reklam filminin düzenlemesini gerçekleştirdim. ",
+        whatidodes3: "Kişisel ve dışarıdan iş olarak aldığım fotoğrafları düzenlemede yetenekliyim.",
+        whatidodes4: "Hem hobi olarak fotoğraf çekmeyi hem de profesyonel olarak ürün çekimi gibi konularda kendimi geliştiriyorum.",
+        whatidodes5: "Çok yönlü düşünme, yeni fikirler üretme ve yapılan işi üst kademelere atlatma konusunda başarılıyım.",
+        whatidodes6: "Topululuk yönetimi, topluluk iletişimi ve analizi konularında deneyimliyim. Çeşitli konularda moderasyon sağlayabilirim.",
 
         workstitle1: "\"Vaquer\" logo tasarımı",
         workstitle2: "\"Fidel\" logo tasarımı",

@@ -30,12 +30,13 @@ function About() {
     
     },
     {
-      icon: PhotographIcon,
-      color: "text-[#8774FF]",
-      light: "bg-[#8774FF]/10",
-      title: t("whatidotitle2"),
-      description: t("whatidodes3"),
+      icon: CogIcon,
+      color: "text-[#FF75D8]",
+      light: "bg-[#FF75D8]/10",
+      title: t("whatidotitle5"),
+      description: t("whatidodes6"),
     },
+    
     {
       icon: CameraIcon,
       color: "text-[#FF6080]",
@@ -51,11 +52,11 @@ function About() {
       description: t("whatidodes5"),
     },
     {
-      icon: CogIcon,
-      color: "text-[#FF75D8]",
-      light: "bg-[#FF75D8]/10",
-      title: t("whatidotitle5"),
-      description: t("whatidodes5"),
+      icon: PhotographIcon,
+      color: "text-[#8774FF]",
+      light: "bg-[#8774FF]/10",
+      title: t("whatidotitle2"),
+      description: t("whatidodes3"),
     },
    
   ];
