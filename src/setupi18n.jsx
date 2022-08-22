@@ -33,7 +33,7 @@ i18n.use(initReactI18next).init({
         resumeEducation: "Education",
         resumeExperience: "Experiments",
         resumeWorkingSkills: "Working Skills",
-        resumeKnowledges: "Bilgiler",
+        resumeKnowledges: "Knowledge",
 
         worksTitle: "Portfolio",
 
@@ -68,6 +68,37 @@ i18n.use(initReactI18next).init({
         workstitle6: "\"Ift\" logo design",
         workstitle7: "\"Ali\" logo design",
         workstitle8: "\"Lax\" logo design",
+
+
+        resumeEducationt1: "Radio and Television Programming",
+        resumeEducationt2: "Diction, speaker and presenter",
+        resumeEducationt3: "Digital Logo Design",
+        resumeEducationt4: "Video / Photo Editing",
+
+        resumeEducationtime1: "2018 - Present",
+        resumeEducationtime2: "2020 - Present",
+
+        resumeEducationdes1: "Afyon Kocatepe University",
+        resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
+        resumeEducationdes3: "Freelance",
+        resumeEducationdes4: "Freelance",
+
+        resumeskill1: "Design",
+        resumeskill2: "Video Editing",
+        resumeskill3: "Adobe Design Programs",
+        resumeskill4: "Community Communication",
+        resumeskill5: "Business Development",
+
+        knowlegde1: "Digital Design",
+        knowlegde2: "Social Media",
+        knowlegde3: "Office Programs",
+        knowlegde4: "Problem Solving",
+        knowlegde5: "Analytical Skill",
+        knowlegde6: "Team Management",
+        knowlegde7: "Community Management",
+        knowlegde8: "Website Editor",
+
+
 
       },
     },
@@ -133,6 +164,38 @@ i18n.use(initReactI18next).init({
         workstitle7: "\"Ali\" logo tasarımı",
         workstitle8: "\"Lax\" logo tasarımı",
         
+
+
+
+        resumeEducationt1: "Radyo ve Televizyon programcılığı",
+        resumeEducationt2: "Diksiyon, Spikerlik ve Sunuculuk",
+        resumeEducationt3: "Dijital Logo Tasarımı",
+        resumeEducationt4: "Video / Fotoğraf Düzenleme",
+
+        resumeEducationtime1: "2018 - Günümüz",
+        resumeEducationtime2: "2020 - Günümüz",
+
+        resumeEducationdes1: "Afyon Kocatepe Üniversitesi",
+        resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
+        resumeEducationdes3: "Freelance",
+        resumeEducationdes4: "Freelance",
+
+        resumeskill1: "Tasarım",
+        resumeskill2: "Video Düzenleme",
+        resumeskill3: "Adobe Tasarım Programları",
+        resumeskill4: "Topluluk İletişimi",
+        resumeskill5: "İş geliştirme",
+
+        knowlegde1: "Dijital Tasarım",
+        knowlegde2: "Sosyal Medya",
+        knowlegde3: "Office Programları",
+        knowlegde4: "Sorun Çözme",
+        knowlegde5: "Analitik Beceri",
+        knowlegde6: "Ekip Yönetimi",
+        knowlegde7: "Topluluk Yönetimi",
+        knowlegde8: "Website Editörlüğü",
+
+
       },
     },
   },

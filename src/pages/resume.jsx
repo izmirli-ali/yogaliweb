@@ -7,71 +7,71 @@ function Resume() {
   const educationList = [
     {
       timespan: "2020 - 2022",
-      title: "Radyo ve Televizyon Programcılığı",
+      title: t("resumeEducationt1"),
       light: "bg-[#D566FF]/10",
-      description: "Afyon Kocatepe Üniversitesi",
+      description: t("resumeEducationdes1"),
     },
     {
       timespan: "2022",
-      title: "Diksiyon, Spikerlik ve Sunuculuk",
+      title: t("resumeEducationt2"),
       light: "bg-[#DDA10C]/10",
-      description: "Afyonkarahisar Halk Eğitimi Merkezi",
+      description: t("resumeEducationdes2"),
     }
   ];
 
   const experienceList = [
     {
-      timespan: "2017-2021",
-      title: "Computer Science",
+      timespan: t("resumeEducationtime1"),
+      title: t("resumeEducationt3"),
       light: "bg-[#FF6080]/10",
-      description: "Imperialize Technical Institute",
+      description: t("resumeEducationdes3"),
     },
     {
-      timespan: "2015-2017",
-      title: "Cr. Web Developer",
+      timespan: t("resumeEducationtime2"),
+      title: t("resumeEducationt4"),
       light: "bg-[#FF75D8]/10",
-      description: "ib-themes ltd.",
+      description: t("resumeEducationdes4"),
     },
   ];
 
   const skillList = [
     {
-      name: "Tasarım",
+      name: t("resumeskill1"),
       amount: 90,
       color: "bg-primary",
     },
     {
-      name: "Video Düzenleme",
+      name: t("resumeskill2"),
       amount: 75,
       color: "bg-[#9272D4]",
     },
     {
-      name: "Adobe Tasarım Programları",
+      name: t("resumeskill3"),
       amount: 90,
       color: "bg-[#5185D4]",
     },
     {
-      name: "Topluluk İletişimi",
+      name: t("resumeskill4"),
       amount: 85,
       color: "bg-[#CA56F2]",
     },
     {
-      name: "İş Geliştirme",
+      name: t("resumeskill5"),
       amount: 90,
       color: "bg-[#DC9D00]",
     },
   ];
 
   const knowledgeList = [
-    "Dijital Tasarım",
-    "Sosyal Medya",
-    "Office Programları",
-    "Sorun Çözme",
-    "Analitik Beceriler",
-    "Ekip Yönetimi",
-    "Topluluk Yönetimi",
+    t("knowlegde1"),
+    t("knowlegde2"),
+    t("knowlegde3"),
+    t("knowlegde4"),
+    t("knowlegde5"),
+    t("knowlegde6"),
+    t("knowlegde7"),
    // "Kurumlar Arası İletişim",
-    "Website Editörlüğü",
+    t("knowlegde8"),
   ];
 
   return (
