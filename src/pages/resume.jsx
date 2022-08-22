@@ -63,13 +63,15 @@ function Resume() {
   ];
 
   const knowledgeList = [
-    "Dijital tasarım",
-    "Sosyal medya",
-    "Print",
-    "Time Management",
-    "Flexibility",
-    "Print",
-    "Orospuluk",
+    "Dijital Tasarım",
+    "Sosyal Medya",
+    "Office Programları",
+    "Sorun Çözme",
+    "Analitik Beceriler",
+    "Ekip Yönetimi",
+    "Topluluk Yönetimi",
+   // "Kurumlar Arası İletişim",
+    "Website Editörlüğü",
   ];
 
   return (

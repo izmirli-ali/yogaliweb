@@ -18,7 +18,7 @@ function PersonalCard() {
         className="w-56 h-56 lg:-mt-36 rounded-2xl shadow-lg object-cover object-center"
       />
       <h1 className="text-2xl font-bold mt-6">Ali ihsancan UYSAL</h1>
-      <p className="text-gray-400 mt-4 font-medium">
+      <p className="text-gray-400 mt-4 font-medium text-center">
         <span className="bg-transparent dark:bg-[#1D1D1D] px-4 py-2 rounded-lg">
           {t("profileDescription")}
         </span>
