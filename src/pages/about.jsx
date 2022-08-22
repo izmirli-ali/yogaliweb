@@ -36,14 +36,6 @@ function About() {
       title: t("whatidotitle5"),
       description: t("whatidodes6"),
     },
-    
-    {
-      icon: CameraIcon,
-      color: "text-[#FF6080]",
-      light: "bg-[#FF6080]/10",
-      title: t("whatidotitle3"),
-      description: t("whatidodes4"),
-    },
     {
       icon: LightBulbIcon,
       color: "text-[#269FFF]",
@@ -51,6 +43,14 @@ function About() {
       title: t("whatidotitle6"),
       description: t("whatidodes5"),
     },
+    {
+      icon: CameraIcon,
+      color: "text-[#FF6080]",
+      light: "bg-[#FF6080]/10",
+      title: t("whatidotitle3"),
+      description: t("whatidodes4"),
+    },
+   
     {
       icon: PhotographIcon,
       color: "text-[#8774FF]",

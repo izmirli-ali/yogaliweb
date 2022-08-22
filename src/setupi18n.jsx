@@ -38,36 +38,36 @@ i18n.use(initReactI18next).init({
         worksTitle: "Portfolio",
 
         contactTitle: "Contact",
-        contactText1: "I'm always open to discussing product",
-        contactText2: "design work or partnerships.",
+        contactText1: "You can always contact me",
+        contactText2: "for offers and partnerships.",
         contactName: "Name",
         contactEmail: "Email",
         contactMessage: "Message",
         contactSend: "Send",
 
         
-        whatidotitle1: "Video Düzenleme",
-        whatidotitle2: "Fotoğraf Düzenleme",
-        whatidotitle3: "Fotoğrafçılık",
-        whatidotitle4: "Tasarım",
-        whatidotitle5: "Yöneticilik",
-        whatidotitle6: "İş Geliştirme",
+        whatidotitle1: "Video Editing",
+        whatidotitle2: "Photo Editing",
+        whatidotitle3: "Photography",
+        whatidotitle4: "Design",
+        whatidotitle5: "Management",
+        whatidotitle6: "Business Development",
 
-        whatidodes1: "açıklama1",
-        whatidodes2: "açıklama2",
-        whatidodes3: "açıklama3",
-        whatidodes4: "açıklama4",
-        whatidodes5: "açıklama5",
-        whatidodes6: "açıklama6",
+        whatidodes1: "I make personal and brand logo, panel and background designs.",
+        whatidodes2: "During my university years, I edited various short films and commercials.",
+        whatidodes3: "I am skilled in editing photos that I receive personally and externally.",
+        whatidodes4: "I improve myself both as a hobby and as a professional product photographer.",
+        whatidodes5: "I am good at thinking from different perspectives , generating new ideas and getting the job done to higher levels.",
+        whatidodes6: "I have experience in community management, community communication and analysis. I can moderate communities on various topics",
 
-        workstitle1: "\"Vaquer\" logo design",
-        workstitle2: "\"Fidel\" logo design",
-        workstitle3: "\"AG\" logo design",
-        workstitle4: "\"Zeta\" logo design",
-        workstitle5: "\"Oxy\" logo design",
-        workstitle6: "\"Ift\" logo design",
-        workstitle7: "\"Ali\" logo design",
-        workstitle8: "\"Lax\" logo design",
+        workstitle1: "\"Vaquer\" Logo Design",
+        workstitle2: "\"Fidel\" Logo Design",
+        workstitle3: "\"AG\" Logo Design",
+        workstitle4: "\"Zeta\" Logo Design",
+        workstitle5: "\"Oxy\" Logo Design",
+        workstitle6: "\"Ift\" Logo Design",
+        workstitle7: "\"Ali\" Logo Design",
+        workstitle8: "\"Lax\" Logo Design",
 
 
         resumeEducationt1: "Radio and Television Programming",
@@ -79,7 +79,7 @@ i18n.use(initReactI18next).init({
         resumeEducationtime2: "2020 - Present",
 
         resumeEducationdes1: "Afyon Kocatepe University",
-        resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
+        resumeEducationdes2: "Afyonkarahisar Public Education Center",
         resumeEducationdes3: "Freelance",
         resumeEducationdes4: "Freelance",
 
@@ -104,7 +104,7 @@ i18n.use(initReactI18next).init({
     },
     tr: {
       translation: {
-        profileDescription: "Video / Fotoğraf Düzenleyicisi",
+        profileDescription: "Video / Fotoğraf Editörü",
         profilePhone: "Telefon",
         profileEmail: "Eposta",
         profileLocation: "Konum",
@@ -155,14 +155,14 @@ i18n.use(initReactI18next).init({
         whatidodes5: "Çok yönlü düşünme, yeni fikirler üretme ve yapılan işi üst kademelere atlatma konusunda başarılıyım.",
         whatidodes6: "Topululuk yönetimi, topluluk iletişimi ve analizi konularında deneyimliyim. Çeşitli konularda moderasyon sağlayabilirim.",
 
-        workstitle1: "\"Vaquer\" logo tasarımı",
-        workstitle2: "\"Fidel\" logo tasarımı",
-        workstitle3: "\"AG\" logo tasarımı",
-        workstitle4: "\"Zeta\" logo tasarımı",
-        workstitle5: "\"Oxy\" logo tasarımı",
-        workstitle6: "\"Ift\" logo tasarımı",
-        workstitle7: "\"Ali\" logo tasarımı",
-        workstitle8: "\"Lax\" logo tasarımı",
+        workstitle1: "\"Vaquer\" Logo Tasarımı",
+        workstitle2: "\"Fidel\" Logo Tasarımı",
+        workstitle3: "\"AG\" Logo Tasarımı",
+        workstitle4: "\"Zeta\" Logo Tasarımı",
+        workstitle5: "\"Oxy\" Logo Tasarımı",
+        workstitle6: "\"Ift\" Logo Tasarımı",
+        workstitle7: "\"Ali\" Logo Tasarımı",
+        workstitle8: "\"Lax\" Logo Tasarımı",
         
 
 
@@ -177,8 +177,8 @@ i18n.use(initReactI18next).init({
 
         resumeEducationdes1: "Afyon Kocatepe Üniversitesi",
         resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
-        resumeEducationdes3: "Freelance",
-        resumeEducationdes4: "Freelance",
+        resumeEducationdes3: "Serbest Çalışma",
+        resumeEducationdes4: "Serbest Çalışma",
 
         resumeskill1: "Tasarım",
         resumeskill2: "Video Düzenleme",
