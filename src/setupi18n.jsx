@@ -22,8 +22,7 @@ i18n.use(initReactI18next).init({
         menuContact: "Contact",
 
         aboutmeTitle: "About Me",
-        aboutmeDescription1: `
-        I have aptitude and experience in management, design and photo editing. Thanks to the department I graduated from, I developed a lot in photography and video editing.`,
+        aboutmeDescription1: `I have a predisposition and experience in the fields of management, design and photo editing. Thanks to the department I graduated from, I improved myself a lot in photography and video editing.`,
         aboutmeDescription2: `At the same time, I take part in business development and managerial positions in order to realize a new project with the team I am in. I want to make my skills more experienced and successful in a nice team that I can work with.`,
         aboutmeWhatIDo: "What I do!",
 
@@ -117,7 +116,7 @@ i18n.use(initReactI18next).init({
         menuContact: "İletişim",
 
         aboutmeTitle: "Hakkımda",
-        aboutmeDescription1: `Yönetim, tasarım ve fotoğraflar düzenleme alanlarına yatkınlığım ve tecrübem var. Mezun olduğum bölüm sayesinde de fotoğrafçılık ve video düzenleme konularında oldukça geliştirdim.`,
+        aboutmeDescription1: `Yönetim, tasarım ve fotoğraflar düzenleme alanlarına yatkınlığım ve tecrübem var. Mezun olduğum bölüm sayesinde de fotoğrafçılık ve video düzenleme konularında kendimi oldukça geliştirdim.`,
         aboutmeDescription2: `Aynı zamanda içinde bulunduğum ekiple birlikte yeni bir proje gerçekleştirebilmek adına iş geliştirme ve yönetici pozisyonunda yer alıyorum. Kendimi; çalışabileceğim güzel bir ekip içinde, sahip olduğum yeteneklerde daha deneyimli ve başarılı hale getirmek istiyorum.`,
         aboutmeWhatIDo: "Neler yapıyorum!",
 
