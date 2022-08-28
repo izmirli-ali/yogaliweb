@@ -41,7 +41,7 @@ function PersonalCard() {
         </a> */}
 
         <a
-          href="https://facebook.com/aliyogali"
+          href="https://twitter.com/aliihsancanuysl"
           target="_blank"
           className="bg-gray-100 dark:bg-[#212425] text-[#1C9CEA] hover:bg-primary dark:hover:bg-primary hover:text-white transition w-10 h-10 flex justify-center items-center rounded-lg"
         >

@@ -22,11 +22,9 @@ i18n.use(initReactI18next).init({
         menuContact: "Contact",
 
         aboutmeTitle: "About Me",
-        aboutmeDescription1: `I'm Creative Director and UI/UX Designer from Sydney, Australia,
-          working in web development and print media. I enjoy turning complex
-          problems into simple, beautiful and intuitive designs.`,
-        aboutmeDescription2: `My aim is to bring across your message and identity in the most
-          creative way. I created web design for many famous brand companies.`,
+        aboutmeDescription1: `
+        I have aptitude and experience in management, design and photo editing. Thanks to the department I graduated from, I developed a lot in photography and video editing.`,
+        aboutmeDescription2: `At the same time, I take part in business development and managerial positions in order to realize a new project with the team I am in. I want to make my skills more experienced and successful in a nice team that I can work with.`,
         aboutmeWhatIDo: "What I do!",
 
         resumeTitle: "Resume",
@@ -119,9 +117,8 @@ i18n.use(initReactI18next).init({
         menuContact: "İletişim",
 
         aboutmeTitle: "Hakkımda",
-        aboutmeDescription1: `Blablablabla`,
-        aboutmeDescription2: `My aim is to bring across your message and identity in the most
-          creative way. I created web design for many famous brand companies.`,
+        aboutmeDescription1: `Yönetim, tasarım ve fotoğraflar düzenleme alanlarına yatkınlığım ve tecrübem var. Mezun olduğum bölüm sayesinde de fotoğrafçılık ve video düzenleme konularında oldukça geliştirdim.`,
+        aboutmeDescription2: `Aynı zamanda içinde bulunduğum ekiple birlikte yeni bir proje gerçekleştirebilmek adına iş geliştirme ve yönetici pozisyonunda yer alıyorum. Kendimi; çalışabileceğim güzel bir ekip içinde, sahip olduğum yeteneklerde daha deneyimli ve başarılı hale getirmek istiyorum.`,
         aboutmeWhatIDo: "Neler yapıyorum!",
 
         resumeTitle: "Özgeçmiş",
