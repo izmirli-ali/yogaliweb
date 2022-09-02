@@ -5,7 +5,7 @@ import {
   LocationMarkerIcon,
   CalendarIcon,
 } from "@heroicons/react/outline";
-import CV from "../assets/test.pdf";
+import CV from "../assets/CV-Aliihsancanuysal.pdf";
 import { useTranslation } from "react-i18next";
 
 function PersonalCard() {
