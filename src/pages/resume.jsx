@@ -6,20 +6,40 @@ function Resume() {
   const { t } = useTranslation();
   const educationList = [
     {
-      timespan: "2020 - 2022",
-      title: t("resumeEducationt1"),
-      light: "bg-[#D566FF]/10",
+      timespan: t("resumeEducationtime2"),
+      title: t("resumeEducationt5"),
+      light: "bg-[#DDA10C]/10",
       description: t("resumeEducationdes1"),
+    },
+    {
+      timespan: t("resumeEducationtime1"),
+      title: t("resumeEducationt6"),
+      light: "bg-[#DDA10C]/10",
+      description: t("resumeEducationdes5"),
     },
     {
       timespan: "2022",
       title: t("resumeEducationt2"),
       light: "bg-[#DDA10C]/10",
       description: t("resumeEducationdes2"),
+    },
+    {
+      timespan: "2020 - 2022",
+      title: t("resumeEducationt1"),
+      light: "bg-[#D566FF]/10",
+      description: t("resumeEducationdes1"),
     }
+    
+   
   ];
 
   const experienceList = [
+    {
+      timespan: t("resumeEducationtime2"),
+      title: t("resumeEducationt7"),
+      light: "bg-[#FF75D8]/10",
+      description: t("resumeEducationdes6"),
+    },
     {
       timespan: t("resumeEducationtime1"),
       title: t("resumeEducationt3"),
@@ -31,7 +51,9 @@ function Resume() {
       title: t("resumeEducationt4"),
       light: "bg-[#FF75D8]/10",
       description: t("resumeEducationdes4"),
-    },
+    }
+   
+    
   ];
 
   const skillList = [

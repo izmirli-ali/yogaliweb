@@ -71,6 +71,10 @@ i18n.use(initReactI18next).init({
         resumeEducationt2: "Diction, speaker and presenter",
         resumeEducationt3: "Digital Logo Design",
         resumeEducationt4: "Video / Photo Editing",
+        resumeEducationt5: "Cinema and Television",
+        resumeEducationt6: "Graphic Design",
+        resumeEducationt7: "Discord Community Manager",
+
 
         resumeEducationtime1: "2018 - Present",
         resumeEducationtime2: "2020 - Present",
@@ -79,6 +83,9 @@ i18n.use(initReactI18next).init({
         resumeEducationdes2: "Afyonkarahisar Public Education Center",
         resumeEducationdes3: "Freelance",
         resumeEducationdes4: "Freelance",
+        resumeEducationdes5: "Istanbul University",
+        resumeEducationdes6: "ZEON - Freelance",
+      
 
         resumeskill1: "Design",
         resumeskill2: "Video Editing",
@@ -167,6 +174,9 @@ i18n.use(initReactI18next).init({
         resumeEducationt2: "Diksiyon, Spikerlik ve Sunuculuk",
         resumeEducationt3: "Dijital Logo Tasarımı",
         resumeEducationt4: "Video / Fotoğraf Düzenleme",
+        resumeEducationt5: "Sinema ve Televizyon",
+        resumeEducationt6: "Grafik Tasarım",
+        resumeEducationt7: "Discord Topluluk Yöneticisi",
 
         resumeEducationtime1: "2018 - Günümüz",
         resumeEducationtime2: "2020 - Günümüz",
@@ -175,7 +185,8 @@ i18n.use(initReactI18next).init({
         resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
         resumeEducationdes3: "Serbest Çalışma",
         resumeEducationdes4: "Serbest Çalışma",
-
+        resumeEducationdes5: "İstanbul Üniversitesi",
+        resumeEducationdes6: "ZEON - Serbest Çalışma",
         resumeskill1: "Tasarım",
         resumeskill2: "Video Düzenleme",
         resumeskill3: "Adobe Tasarım Programları",
