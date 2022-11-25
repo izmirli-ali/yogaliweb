@@ -35,19 +35,19 @@ function Resume() {
 
   const experienceList = [
     {
-      timespan: t("resumeEducationtime2"),
+      timespan: t("resumeEducationtime3"),
       title: t("resumeEducationt7"),
       light: "bg-[#FF75D8]/10",
       description: t("resumeEducationdes6"),
     },
     {
-      timespan: t("resumeEducationtime1"),
+      timespan: t("resumeEducationtime4"),
       title: t("resumeEducationt3"),
       light: "bg-[#FF6080]/10",
       description: t("resumeEducationdes3"),
     },
     {
-      timespan: t("resumeEducationtime2"),
+      timespan: t("resumeEducationtime4"),
       title: t("resumeEducationt4"),
       light: "bg-[#FF75D8]/10",
       description: t("resumeEducationdes4"),
