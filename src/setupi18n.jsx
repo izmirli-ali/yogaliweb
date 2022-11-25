@@ -78,6 +78,9 @@ i18n.use(initReactI18next).init({
 
         resumeEducationtime1: "2022 - Present",
         resumeEducationtime2: "2022 - Present",
+        resumeEducationtime3: "2020 - Present",
+        resumeEducationtime4: "2018 - Present",
+        
 
         resumeEducationdes1: "Afyon Kocatepe University",
         resumeEducationdes2: "Afyonkarahisar Public Education Center",
@@ -180,6 +183,8 @@ i18n.use(initReactI18next).init({
 
         resumeEducationtime1: "2022 - Günümüz",
         resumeEducationtime2: "2022 - Günümüz",
+        resumeEducationtime3: "2020 - Günümüz",
+        resumeEducationtime4: "2018 - Günümüz",
 
         resumeEducationdes1: "Afyon Kocatepe Üniversitesi",
         resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
