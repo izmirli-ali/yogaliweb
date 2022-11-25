@@ -76,8 +76,8 @@ i18n.use(initReactI18next).init({
         resumeEducationt7: "Discord Community Manager",
 
 
-        resumeEducationtime1: "2018 - Present",
-        resumeEducationtime2: "2020 - Present",
+        resumeEducationtime1: "2022 - Present",
+        resumeEducationtime2: "2022 - Present",
 
         resumeEducationdes1: "Afyon Kocatepe University",
         resumeEducationdes2: "Afyonkarahisar Public Education Center",
@@ -175,11 +175,11 @@ i18n.use(initReactI18next).init({
         resumeEducationt3: "Dijital Logo Tasarımı",
         resumeEducationt4: "Video / Fotoğraf Düzenleme",
         resumeEducationt5: "Sinema ve Televizyon",
-        resumeEducationt6: "Grafik Tasarım",
+        resumeEducationt6: "Grafik Tasarımı",
         resumeEducationt7: "Discord Topluluk Yöneticisi",
 
-        resumeEducationtime1: "2018 - Günümüz",
-        resumeEducationtime2: "2020 - Günümüz",
+        resumeEducationtime1: "2022 - Günümüz",
+        resumeEducationtime2: "2022 - Günümüz",
 
         resumeEducationdes1: "Afyon Kocatepe Üniversitesi",
         resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
