@@ -5,6 +5,12 @@ import { useTranslation } from "react-i18next";
 function Resume() {
   const { t } = useTranslation();
   const educationList = [
+     {
+      timespan: t("resumeEducationtime5"),
+      title: t("resumeEducationt8"),
+      light: "bg-[#DDA10C]/10",
+      description: t("resumeEducationdes7"),
+    },
     {
       timespan: t("resumeEducationtime2"),
       title: t("resumeEducationt5"),
