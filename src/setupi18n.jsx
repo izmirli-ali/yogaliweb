@@ -74,12 +74,13 @@ i18n.use(initReactI18next).init({
         resumeEducationt5: "Cinema and Television",
         resumeEducationt6: "Graphic Design",
         resumeEducationt7: "Discord Community Manager",
-
+        resumeEducationt8: "Cinema and Television Intern",
 
         resumeEducationtime1: "2022 - Present",
         resumeEducationtime2: "2022 - Present",
         resumeEducationtime3: "2020 - Present",
         resumeEducationtime4: "2018 - Present",
+        resumeEducationtime5: "2023",
         
 
         resumeEducationdes1: "Afyon Kocatepe University",
@@ -88,6 +89,7 @@ i18n.use(initReactI18next).init({
         resumeEducationdes4: "Freelance",
         resumeEducationdes5: "Istanbul University",
         resumeEducationdes6: "ZEON - Freelance",
+        resumeEducationdes7: "Dokuz Eylül University",
       
 
         resumeskill1: "Design",
@@ -180,11 +182,13 @@ i18n.use(initReactI18next).init({
         resumeEducationt5: "Sinema ve Televizyon",
         resumeEducationt6: "Grafik Tasarımı",
         resumeEducationt7: "Discord Topluluk Yöneticisi",
+        resumeEducationt8: "Cinema and Television Intern",
 
         resumeEducationtime1: "2022 - Günümüz",
         resumeEducationtime2: "2022 - Günümüz",
         resumeEducationtime3: "2020 - Günümüz",
         resumeEducationtime4: "2018 - Günümüz",
+        resumeEducationtime5: "2023",
 
         resumeEducationdes1: "Afyon Kocatepe Üniversitesi",
         resumeEducationdes2: "Afyonkarahisar Halk Eğitimi Merkezi",
@@ -192,6 +196,8 @@ i18n.use(initReactI18next).init({
         resumeEducationdes4: "Serbest Çalışma",
         resumeEducationdes5: "İstanbul Üniversitesi",
         resumeEducationdes6: "ZEON - Serbest Çalışma",
+        resumeEducationdes7: "Dokuz Eylül University",
+
         resumeskill1: "Tasarım",
         resumeskill2: "Video Düzenleme",
         resumeskill3: "Adobe Tasarım Programları",
