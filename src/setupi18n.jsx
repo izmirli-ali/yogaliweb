@@ -182,7 +182,7 @@ i18n.use(initReactI18next).init({
         resumeEducationt5: "Sinema ve Televizyon",
         resumeEducationt6: "Grafik Tasarımı",
         resumeEducationt7: "Discord Topluluk Yöneticisi",
-        resumeEducationt8: "Cinema and Television Intern",
+        resumeEducationt8: "Sinema ve Televizyon Stajyer",
 
         resumeEducationtime1: "2022 - Günümüz",
         resumeEducationtime2: "2022 - Günümüz",
@@ -196,7 +196,7 @@ i18n.use(initReactI18next).init({
         resumeEducationdes4: "Serbest Çalışma",
         resumeEducationdes5: "İstanbul Üniversitesi",
         resumeEducationdes6: "ZEON - Serbest Çalışma",
-        resumeEducationdes7: "Dokuz Eylül University",
+        resumeEducationdes7: "Dokuz Eylül Üniversitesi",
 
         resumeskill1: "Tasarım",
         resumeskill2: "Video Düzenleme",
